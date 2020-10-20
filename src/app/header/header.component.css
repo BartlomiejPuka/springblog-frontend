@@ -1,5 +1,5 @@
 .header{
-  padding: 5px 20px;
+  padding: 5px 10px;
   background: forestgreen;
 }
 
@@ -13,5 +13,11 @@
   float: right;
   text-decoration: none;
   color: aliceblue;
-  padding-top: 20px;
+  padding-top: 10px;
+}
+
+.new-post{
+  float: right;
+  color: aliceblue;
+  padding-top: 10px;
 }
